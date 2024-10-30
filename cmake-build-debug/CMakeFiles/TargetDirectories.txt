@@ -1,0 +1,3 @@
+/home/giannis/CLionProjects/MasterSiozios/cmake-build-debug/CMakeFiles/MasterSiozios.dir
+/home/giannis/CLionProjects/MasterSiozios/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giannis/CLionProjects/MasterSiozios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
