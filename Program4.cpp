@@ -1,19 +1,20 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
-#define PI 3.14159
-#define NEWLINE '\n'
+int main(){
 
-int main ()
-{
-  int x=6, y=4;
-  
-  float apotelesma;
-  
-  apotelesma =  (float)x/y;
-  
-  cout << "apotelesma = " << apotelesma << endl;
-  
-  return 0;
+int number,i;
+    
+cout<<"Dwse arithmo: ";
+cin>>number;
 
+for(i=0; i<number; i++){
+      
+if(i*(i+1)>=number)
+  break;
+}  
+cout<<"Oi dyo diadoxikoi akeraioi einai: "<<i<<" , "<<i+1<<endl;
+
+return 0;
 }
