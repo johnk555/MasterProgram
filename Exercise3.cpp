@@ -1,4 +1,4 @@
-// FHexadecimal to Decimal Converter
+// Hexadecimal to Decimal Converter
 
 #include <iostream>
 #include <cmath>
