@@ -26,6 +26,12 @@ int main()
         i++;
     }
     avg= (float)sum/i;
-    cout<<"O mesos oros ton arithmwn einai: "<<avg;
+    cout<<"O mesos oros ton arithmwn einai: "<<avg<<endl<<endl;
+    
+    for(i=0; i<5; i++)
+    {
+        if(arr[i]>avg)
+            cout << "To stoixeio "<<i<<" einai megalytero tou mesou orou!"<<endl;
+    }
     return 0;
 }
