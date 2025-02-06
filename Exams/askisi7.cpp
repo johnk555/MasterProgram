@@ -1,4 +1,4 @@
-#include <iostream> //askisi 6
+#include <iostream> //askisi 7
 using namespace std;
 
 class circle{
